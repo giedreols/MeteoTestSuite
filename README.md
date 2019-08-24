@@ -5,7 +5,7 @@ MeteoTestSuite demonstrate a few simple Selenium tests (C#) for http://meteo.lt 
 ## Installation
 
 1. Install Visual Studio
- * Instruction: https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2019
+ * Instruction: https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2017
  * Target framework: .NET Framework 4.6
 2. Install the latest versions of Chrome, Firefox and Internet Explorer browsers
 
